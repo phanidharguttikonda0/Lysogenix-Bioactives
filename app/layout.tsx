@@ -11,20 +11,7 @@ export const metadata: Metadata = {
   description: 'Direct-to-brand supplier of 100% natural, unbleached Mulberry Silk Cocoons and raw Beeswax for indie cosmetic brands and K-Beauty startups.',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
+    icon: '/lysogenix-logo.svg',
     apple: '/apple-icon.png',
   },
 }
