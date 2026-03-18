@@ -36,7 +36,7 @@ export function Hero() {
           {/* Right Image */}
           <div className="relative h-96 md:h-full">
             <Image
-              src="https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=600&h=600&fit=crop"
+              src="/ForeFront.png"
               alt="Premium silk cocoons and natural beeswax"
               width={600}
               height={600}
