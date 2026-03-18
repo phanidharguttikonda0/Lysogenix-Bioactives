@@ -119,7 +119,7 @@ export function Products() {
             <div className="flex flex-col md:flex-row gap-8 h-full">
               <div className="relative h-48 md:h-56 w-full md:w-1/2 overflow-hidden bg-slate-100">
                 <Image
-                  src="https://images.unsplash.com/photo-1615485676633-424666005e6d?w=500&h=500&fit=crop"
+                  src="/beewax.png"
                   alt="Raw Cleaned Cosmetic Beeswax"
                   width={500}
                   height={500}
